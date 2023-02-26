@@ -14,14 +14,18 @@ Informe Proyecto 3
 
 Tema: 
 
-1. OBJETIVOS
+## 1. OBJETIVOS
 OBJETIVO GENERAL
-• Determinar la corriente en un circuito eléctrico, mediante la aplicación de la ley de voltajes de Kirchhoff.
+
 
 OBJETIVOS ESPECIFICOS
 
-2. MARCO TEORICO
+## 2. MARCO TEORICO
 
-3. PROCEDIMIENTO
+## 3. PROCEDIMIENTO
 
+## 4. CONCLUSIONES
 
+## 5. VIDEO
+
+## 6. BIBLIOGRAFÍA
