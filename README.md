@@ -35,11 +35,27 @@ OBJETIVOS ESPECIFICOS
 • Localizar fallas en circuitos.
 
 ## 2. MARCO TEORICO
-![image](https://user-images.githubusercontent.com/116775893/221725637-1a003801-391d-48cb-abcf-383f5b4b17a6.png)
-![image](https://user-images.githubusercontent.com/116775893/221726813-b633ffec-7311-47c2-abc8-dc52b6ce3f5e.png)
-
 
 ## 3. PROCEDIMIENTO
+## Materiales
+
+* 1 Sensor Im 35
+
+* 1 Integrado Im 358
+
+* 2 resistencias de 470
+
+* 2 led
+
+* potenciometro 10k
+
+## PASOS
+
+Primero tenemos que usar el sensor Im 35, el cual sirve para medir la temperatura
+para amplificar la señar de dicho sensor usamos el amplificador Im358
+colocamos dichos componentes en el proto siguendo el diagrama y empezamos armando nuestro sircuito.
+en el pin 3 del amplificador ingresaria la señal del sensor.
+en el pin 2 del amplificador ponemos el potenciometro, lo ponemos como un divisor de voltaje entre positivo y negativo.
 
 ## 4. CONCLUSIONES
 
@@ -54,10 +70,4 @@ OBJETIVOS ESPECIFICOS
 ## 6. BIBLIOGRAFÍA
 
 
-• Video de referencia: https://www.youtube.com/watch?v=IMWU9rcGOlE
-
-• Tech, A. [@AndrobotTECH]. (2022, abril 30). Como hacer un Termómetro que pueda medir de 0oC a 50oC. Youtube. https://www.youtube.com/watch?v=XmJwsw40Y_M
-
-• Práctica - Medidor de temperatura en Centígrados y Fahrenheit - Amplificadores operacionales. (s/f). Solucioningenieril.com. Recuperado el 28 de febrero de 2023, de https://solucioningenieril.com/amplificadores_operacionales/medidor_de_temperatura_en_centigrados_y_fahrenheit
-
-
+video de referencia: https://www.youtube.com/watch?v=IMWU9rcGOlE
