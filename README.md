@@ -1,4 +1,4 @@
-# Informe-proyecto-3
+# Informe-Proyecto-3
 
 Fundamentos de Circuitos Eléctricos
 
@@ -35,6 +35,9 @@ OBJETIVOS ESPECIFICOS
 • Localizar fallas en circuitos.
 
 ## 2. MARCO TEORICO
+![image](https://user-images.githubusercontent.com/116775893/221874054-0ccb2d51-9b65-417c-9983-2a49ad4b909b.png)
+![image](https://user-images.githubusercontent.com/116775893/221874138-5e5bf0af-6cb7-485d-9d95-9cb6ab157d93.png)
+
 
 ## 3. PROCEDIMIENTO
 ## Materiales
