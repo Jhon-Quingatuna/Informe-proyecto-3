@@ -35,6 +35,9 @@ OBJETIVOS ESPECIFICOS
 • Localizar fallas en circuitos.
 
 ## 2. MARCO TEORICO
+![image](https://user-images.githubusercontent.com/116775893/221725637-1a003801-391d-48cb-abcf-383f5b4b17a6.png)
+![image](https://user-images.githubusercontent.com/116775893/221726813-b633ffec-7311-47c2-abc8-dc52b6ce3f5e.png)
+
 
 ## 3. PROCEDIMIENTO
 
