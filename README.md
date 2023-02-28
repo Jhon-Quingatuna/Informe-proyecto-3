@@ -74,6 +74,8 @@ Algo que acotar es que el sensor Im 35 tiene muchas fallas, despues de que arme 
 
 ## 5. VIDEO
 
+https://youtu.be/OTbKhbRM01A
+
 ## 6. BIBLIOGRAFÍA
 
 
