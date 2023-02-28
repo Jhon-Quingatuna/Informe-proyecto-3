@@ -55,7 +55,9 @@ OBJETIVOS ESPECIFICOS
 
 
 • Video de referencia: https://www.youtube.com/watch?v=IMWU9rcGOlE
+
 • Tech, A. [@AndrobotTECH]. (2022, abril 30). Como hacer un Termómetro que pueda medir de 0oC a 50oC. Youtube. https://www.youtube.com/watch?v=XmJwsw40Y_M
+
 • Práctica - Medidor de temperatura en Centígrados y Fahrenheit - Amplificadores operacionales. (s/f). Solucioningenieril.com. Recuperado el 28 de febrero de 2023, de https://solucioningenieril.com/amplificadores_operacionales/medidor_de_temperatura_en_centigrados_y_fahrenheit
 
 
