@@ -60,6 +60,10 @@ colocamos dichos componentes en el proto siguendo el diagrama y empezamos armand
 en el pin 3 del amplificador ingresaria la señal del sensor.
 en el pin 2 del amplificador ponemos el potenciometro, lo ponemos como un divisor de voltaje entre positivo y negativo.
 
+![image](https://user-images.githubusercontent.com/116761073/221875372-15d2556a-e05a-4cb4-99d0-9d7b4a720412.png)
+![image](https://user-images.githubusercontent.com/116761073/221875461-4adcd0d0-394d-4b5a-a25e-e1437d916fc8.png)
+
+
 ## 4. CONCLUSIONES
 
 • En un circuito se pueden encontrar componentes que estan en en serie y en paralelo, junto a lo aprendido amteriormente ya sabemos como pasamos de una simulacion a un circuito real.
