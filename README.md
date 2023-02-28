@@ -37,9 +37,6 @@ OBJETIVOS ESPECIFICOS
 ## 2. MARCO TEORICO
 ![image](https://user-images.githubusercontent.com/116775893/221874054-0ccb2d51-9b65-417c-9983-2a49ad4b909b.png)
 ![image](https://user-images.githubusercontent.com/116775893/221874138-5e5bf0af-6cb7-485d-9d95-9cb6ab157d93.png)
-![image](https://user-images.githubusercontent.com/116761073/221875863-d6ffba86-3817-4d95-860f-25d7579e0ff5.png)
-
-Algo que acotar es que el sensor Im 35 tiene muchas fallas, despues de que arme el circuito empeso a fallar, se sobrecalentaba y se quemo, pregunte a algunos colegas sobre el tema y me dijeron que ese sensor no es muy bueno y que mejor use otro.
 
 ## 3. PROCEDIMIENTO
 ## Materiales
@@ -64,7 +61,8 @@ en el pin 2 del amplificador ponemos el potenciometro, lo ponemos como un diviso
 
 ![image](https://user-images.githubusercontent.com/116761073/221875372-15d2556a-e05a-4cb4-99d0-9d7b4a720412.png)
 ![image](https://user-images.githubusercontent.com/116761073/221875461-4adcd0d0-394d-4b5a-a25e-e1437d916fc8.png)
-
+![image](https://user-images.githubusercontent.com/116761073/221875863-d6ffba86-3817-4d95-860f-25d7579e0ff5.png)
+Algo que acotar es que el sensor Im 35 tiene muchas fallas, despues de que arme el circuito empeso a fallar, se sobrecalentaba y se quemo, pregunte a algunos colegas sobre el tema y me dijeron que ese sensor no es muy bueno y que mejor use otro.
 
 ## 4. CONCLUSIONES
 
